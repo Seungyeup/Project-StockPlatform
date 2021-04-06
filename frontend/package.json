@@ -12,7 +12,7 @@
   "author": "jeonghye-choi",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "mongodb": "^3.6.1",
     "next": "^9.5.1",
